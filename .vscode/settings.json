@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\dev\\Django\\webplayground\\venv\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\dev\\Django\\webplayground\\venv\\Scripts\\python.exe",
+    "emmet.includeLanguages": {"django-html": "html"},
 }
